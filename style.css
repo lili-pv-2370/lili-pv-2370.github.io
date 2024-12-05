@@ -12,16 +12,16 @@ header a{
     color:#FFF2F2;
 }
 #boton-perfil{
-    background-color: #ffabe3;
+    background-color: #9DB2BF;
 }
 .nav-item a:hover{
-    color:#ffabe3;
+    color: black;
 }
 #app{
     color: #8EA7E9;
 }
 .boton-cv{
-    background-color:  #ffabe3;
+    background-color:  #9DB2BF;
     color: #FFF2F2;
 }
 .contenedor-habilidades{
@@ -29,12 +29,13 @@ header a{
     color:#FFF2F2;
 }
 .btn-proyecto{
-    background-color: #ffcece;
+    background-color: #9DB2BF;
 }
 .btn-proyecto a{
     text-decoration: none;
     color: black;
 }
+
 .card .card-title{
     color: #7286D3;
 }
@@ -47,15 +48,30 @@ header a{
 #contacto p{
     color:#FFF2F2;
 }
+#btn-contacto{
+    background-color:#9DB2BF;
+    color:#ffffff;
+}
+#btn-contacto:hover{
+    background-color: #ffffff;
+    color: black;
+}
 
 footer ul li a .bi{
-    color:  #fd8ed8;
+    color: #9DB2BF;
 }
 footer p{
     color: #7286D3;
 }
 footer p a{
     text-decoration: none;
-    color: #fd5bc7;
+    color: #9DB2BF;
     
+}
+
+.icono{
+    color: #7286D3;
+}
+.icono:hover{
+    color: black;
 }
