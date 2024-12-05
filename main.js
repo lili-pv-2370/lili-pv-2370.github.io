@@ -3,7 +3,7 @@ var app = document.getElementById('app');
 var typewriter = new Typewriter(app, {
     loop: true
 });
-typewriter.typeString('Ingeniero en comunicaciones y electrónica')
+typewriter.typeString('Ingeniera en comunicaciones y electrónica')
     .pauseFor(2500)
     .deleteAll()
     .typeString('¡Si lo puedes imaginar, lo puedes crear!')
